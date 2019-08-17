@@ -91,7 +91,7 @@ footer nav a {
 .navBox{
     display: flex;
     align-items: center;
-    margin: 20px;
+    margin: 21px;
 }
 .navBox nav a{
     padding-left: 40px;
