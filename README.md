@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+It is the content of the website. The bulk of text that make up the webpage without any real style.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display: inline-block you have to rely on the box model to make things look tidy, while the flex model has pre-set easy to use labels to move things around. Also, flex changes the 1st layer of the flex box model. What that means is that youcan use the flex labels on both the parent and child, but nothing further.
 
 3. What are the 4 areas of the box model?
 
+margin, border, padding, and content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+y - axis
+
 5. Explain why git is valuable to a team of developers.
+
+You can change things with ease, but also keep your prior saves as well. That way if you make a mistake, you can re-set it to a prior model. On top of that, you can also work on projects as a team and decide who can change and manipulate your git projects.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
